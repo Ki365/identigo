@@ -1,4 +1,4 @@
-module github.com/hackdoor-io/identigo
+module github.com/ki365/identigo
 
 go 1.14
 
